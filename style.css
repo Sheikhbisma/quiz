@@ -175,6 +175,29 @@ main.active {
     transition: all 1s ease;
 }
 
+@media (max-width: 600px) {
+    .pop-up {
+        width: 95vw;
+        min-width: 0;
+        max-width: 98vw;
+        padding: 12px 8px;
+        border-radius: 12px;
+        font-size: 1rem;
+    }
+    .pop-body h2 {
+        font-size: 1.2rem;
+    }
+    .pop-body ol {
+        font-size: 0.95rem;
+        padding-left: 16px;
+    }
+    .btn-grp .btn {
+        font-size: 15px;
+        padding: 7px 12px;
+        border-radius: 8px;
+    }
+}
+
 .pop-up.active {
     opacity: 1;
     pointer-events: auto;
