@@ -1,0 +1,52 @@
+[
+    {
+        "question": "1.What is the capital city of Pakistan?",
+    "correct": "C. Islamabad",
+    "options": ["A. Karachi", "B. Lahore", "C. Islamabad", "D. Peshawar"]
+    },
+    {
+        "question": "2.Which planet is known as the Red Planet?",
+    "correct": "B. Mars",
+    "options": ["A. Venus", "B. Mars", "C. Jupiter", "D. Mercury"]
+    },
+    {
+        "question": "3.How many continents are there in the world?",
+    "correct": "C. 7",
+    "options": ["A. 5", "B. 6", "C. 7", "D. 8"]
+    },
+    {
+        "question": "4.Who wrote the national anthem of Pakistan?",
+    "correct": "B. Hafeez Jalandhari",
+    "options": ["A. Allama Iqbal", "B. Hafeez Jalandhari", "C. Faiz Ahmed Faiz", "D. Ahmed Faraz"]
+    },
+    {
+        "question": "5.What is the largest ocean in the world?",
+    "correct": "C. Pacific Ocean",
+    "options": ["A. Atlantic Ocean", "B. Indian Ocean", "C. Pacific Ocean", "D. Arctic Ocean"]
+    },
+    {
+        "question": "6.Which is the smallest planet in our solar system?",
+    "correct": "B. Mercury",
+    "options": ["A. Pluto", "B. Mercury", "C. Mars", "D. Venus"]
+    },
+    {
+        "question": "7.Who was the first Prime Minister of Pakistan?",
+    "correct": "B. Liaquat Ali Khan",
+    "options": ["A. Quaid-e-Azam", "B. Liaquat Ali Khan", "C. Zulfikar Ali Bhutto", "D. Ayub Khan"]
+    },
+    {
+        "question": "8.Which gas do humans need to breathe in order to survive?",
+    "correct": "B. Oxygen",
+    "options": ["A. Nitrogen", "B. Oxygen", "C. Carbon Dioxide", "D. Hydrogen"]
+    },
+    {
+        "question": "9.How many players are there in a cricket team?",
+    "correct": "C. 11",
+    "options": ["A. 9", "B. 10", "C. 11", "D. 12"]
+    },
+    {
+        "question": "10.Which country is called the Land of the Rising Sun?",
+    "correct": "B. Japan",
+    "options": ["A. China", "B. Japan", "C. Thailand", "D. South Korea"]
+    }
+]
