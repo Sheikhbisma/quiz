@@ -114,7 +114,16 @@ function result(){
         <button class="homebtn">Go To Home</button>
     </div>`;
     // Add event listener for homebtn
-    
+    let homeBtn = document.querySelector(".homebtn");
+    if(homeBtn){
+        homeBtn.addEventListener("click", function(){
+            // Optional: add animation before redirect
+            cont.innerHTML = `<div style='color:#c40094;font-size:2rem;display:flex;justify-content:center;align-items:center;height:100vh;'>Returning Home...</div>`;
+           
+                window.location.href = "index.html";
+            
+        });
+    }
 }
 
 
